@@ -1,6 +1,6 @@
-Building an arithmetic calculator
+**Building an arithmetic calculator**
 
-What I have learned?
+**What I have learned?**
 
 •	To have a better understanding of the Scanner class
 
